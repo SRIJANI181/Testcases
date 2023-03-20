@@ -1,0 +1,20 @@
+Test Cases 01
+aba
+6
+
+Test Cases 02
+proud
+17
+
+Test Cases 03
+srijani
+37
+
+Test Cases 04
+cat
+4
+
+Test Cases 05
+door
+12
+
